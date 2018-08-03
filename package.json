@@ -1,0 +1,22 @@
+{
+  "name": "react-native-app-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzaban/React-Native-App-Test.git"
+  },
+  "author": "Guy Tzaban",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gzaban/React-Native-App-Test/issues"
+  },
+  "homepage": "https://github.com/gzaban/React-Native-App-Test#readme",
+  "dependencies": {
+    "react-native-cli": "^2.0.1"
+  }
+}
